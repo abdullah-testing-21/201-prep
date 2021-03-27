@@ -1,0 +1,13 @@
+body {
+    overflow: hidden;
+
+}
+.myDiv {
+
+    width: 30%;
+    border: 2px solid red;
+    margin: 50px 10px;
+    padding: 5px;
+    float: left;
+
+}

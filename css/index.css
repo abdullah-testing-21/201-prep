@@ -1,0 +1,18 @@
+form{
+    
+    width: 80%;
+    margin: auto;
+    margin-top: 40px;
+
+}
+fieldset {
+    border: 1px solid green;
+        padding: 20px 40px;
+}
+input {
+   margin-top: 20px; 
+}
+
+textarea {
+   margin-top: 20px; 
+}
